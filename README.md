@@ -133,8 +133,8 @@ My Github
 
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ"><img width="140px" src="https://i.ytimg.com/vi/JdJ2VBbYYTQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JddJ2VBbYYTQ">Getting the user's location with JavaScript (Geolocation API tutorial)</a><br/>Dec 22, 2020</td></tr>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ"><img width="140px" src="https://i9.ytimg.com/vi/b12nyNzlUnM/mqdefault.jpg?v=689114d0&sqp=CJyuxMQG&rs=AOn4CLB2uRTsipcztPsenNvaTSDMjo1INQ"></a></td>
+<td><a href="https://www.youtube.com/watch?v=b12nyNzlUnM">Predicting Logistics Processes with Machine Learning</a><br/>Dec 22, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?dv=WZNG8UomjSI"><img width="140px" src="https://i.ytimg.com/vi/WZNG8UomjSI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WZdNG8UomjSI">Build a Weather App with HTML, CSS & JavaScript</a><br/>Dec 10, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?vd=BVX7kZ4GM-g"><img width="140px" src="https://i.ytimg.com/vi/BVX7kZ4GM-g/mqdefault.jpg"></a></td>
