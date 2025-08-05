@@ -45,7 +45,7 @@ My Github
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ageb0205/Detecci-nDelitosML#"><b>Smart Supply Chain with IA</b></a></td>
+      <td><a href="https://github.com/ageb0205/Detecci-nDelitosML#"><b>Predicting Logistics Processes with Machine Learning</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -133,9 +133,9 @@ My Github
 
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ"><img width="140px" src="https://i9.ytimg.com/vi/b12nyNzlUnM/mqdefault.jpg?v=689114d0&sqp=CJyuxMQG&rs=AOn4CLB2uRTsipcztPsenNvaTSDMjo1INQ"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ"><img width="140px" src="https://i.ytimg.com/vi/b12nyNzlUnM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=b12nyNzlUnM">Predicting Logistics Processes with Machine Learning</a><br/>2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?dv=WZNG8UomjSI"><img width="140px" src="https://i9.ytimg.com/vi/OsRtPw2EUUI/mqdefault.jpg?v=68915631&sqp=COSsxcQG&rs=AOn4CLAFtVunHvfxNwZ9pHBiPfJ8CvDZYw"></a></td>
+<tr><td><a href="https://www.youtube.com/watch?dv=WZNG8UomjSI"><img width="140px" src="https://i.ytimg.com/vi/OsRtPw2EUUI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OsRtPw2EUUI">Crime prediction with machine learning</a><br/>2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?vd=BVX7kZ4GM-g"><img width="140px" src="https://i.ytimg.com/vi/BVX7kZ4GM-g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BVdX7kZ4GM-g">Making a Responsive (Birthday) Card with HTML and CSS</a><br/>Dec 1, 2020</td></tr>
