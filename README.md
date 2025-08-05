@@ -134,9 +134,9 @@ My Github
 <table>
   <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ"><img width="140px" src="https://i9.ytimg.com/vi/b12nyNzlUnM/mqdefault.jpg?v=689114d0&sqp=CJyuxMQG&rs=AOn4CLB2uRTsipcztPsenNvaTSDMjo1INQ"></a></td>
-<td><a href="https://www.youtube.com/watch?v=b12nyNzlUnM">Predicting Logistics Processes with Machine Learning</a><br/>Dec 22, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?dv=WZNG8UomjSI"><img width="140px" src="https://i.ytimg.com/vi/WZNG8UomjSI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WZdNG8UomjSI">Build a Weather App with HTML, CSS & JavaScript</a><br/>Dec 10, 2020</td></tr>
+<td><a href="https://www.youtube.com/watch?v=b12nyNzlUnM">Predicting Logistics Processes with Machine Learning</a><br/>2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?dv=WZNG8UomjSI"><img width="140px" src="https://i9.ytimg.com/vi/OsRtPw2EUUI/mqdefault.jpg?v=68915631&sqp=COSsxcQG&rs=AOn4CLAFtVunHvfxNwZ9pHBiPfJ8CvDZYw"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OsRtPw2EUUI">Crime prediction with machine learning</a><br/>2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?vd=BVX7kZ4GM-g"><img width="140px" src="https://i.ytimg.com/vi/BVX7kZ4GM-g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BVdX7kZ4GM-g">Making a Responsive (Birthday) Card with HTML and CSS</a><br/>Dec 1, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watdch?v=gU7b5Vgnalw"><img width="140px" src="https://i.ytimg.com/vi/gU7b5Vgnalw/mqdefault.jpg"></a></td>
