@@ -28,40 +28,30 @@ My Github
 
 
 
-## 📘 My top open source projects
+<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
+## 📺 Latest YouTube Videos
 
 <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-    </tr>
-  </thead>
   <tbody>
-    <tr>
-      <td><a href="https://github.com/ageb0205/Detecci-nDelitosML#"><b>Machine Learning for crime detection </b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ageb0205/Detecci-nDelitosML#"><b>Predicting Logistics Processes with Machine Learning</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/ageb0205/Detecci-nDelitosML#"><b>Dashboard of Netflix with Power BI</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ"><img width="140px" src="https://i.ytimg.com/vi/b12nyNzlUnM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=b12nyNzlUnM">Predicting Logistics Processes with Machine Learning</a><br/>2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?dv=WZNG8UomjSI"><img width="140px" src="https://i.ytimg.com/vi/OsRtPw2EUUI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OsRtPw2EUUI">Crime prediction with machine learning</a><br/>2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?vd=BVX7kZ4GM-g"><img width="140px" src="https://i.ytimg.com/vi/kmUkuyfYzTg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kmUkuyfYzTg">Mobile Business App (Android + Firestore + n8n)</a><br/>2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watdch?v=gU7b5Vgnalw"><img width="140px" src="https://i.ytimg.com/vi/gU7b5Vgnalw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gdU7b5Vgnalw">How to Create Custom Snippets for Any Language in VS Code</a><br/>2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?dv=5ecM9n7A_pY"><img width="140px" src="https://i.ytimg.com/vi/5ecM9n7A_pY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5ecdM9n7A_pY">How to Type HTML and CSS Faster with Emmet</a><br/>Nov 10, 2020</td></tr>
+<!-- YOUTUBE:END -->
+</tbody>
+  </table>
 
-  </tbody>
-</table>
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/@AGEBTech?sub_confirmation=1)
 
 
-<p align="left">
-  <a href="https://github.com/ageb0205?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
-</p>
+
+
 
 ## 👨‍💻 Languages and Tools:
 
@@ -128,26 +118,48 @@ My Github
     </tbody>
 </table>
 
-<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
-## 📺 Latest YouTube Videos
+
+
+
+
+
+
+## 📘 My top open source projects
 
 <table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ"><img width="140px" src="https://i.ytimg.com/vi/b12nyNzlUnM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=b12nyNzlUnM">Predicting Logistics Processes with Machine Learning</a><br/>2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?dv=WZNG8UomjSI"><img width="140px" src="https://i.ytimg.com/vi/OsRtPw2EUUI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OsRtPw2EUUI">Crime prediction with machine learning</a><br/>2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?vd=BVX7kZ4GM-g"><img width="140px" src="https://i.ytimg.com/vi/kmUkuyfYzTg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kmUkuyfYzTg">Mobile Business App (Android + Firestore + n8n)</a><br/>2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watdch?v=gU7b5Vgnalw"><img width="140px" src="https://i.ytimg.com/vi/gU7b5Vgnalw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gdU7b5Vgnalw">How to Create Custom Snippets for Any Language in VS Code</a><br/>2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?dv=5ecM9n7A_pY"><img width="140px" src="https://i.ytimg.com/vi/5ecM9n7A_pY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5ecdM9n7A_pY">How to Type HTML and CSS Faster with Emmet</a><br/>Nov 10, 2020</td></tr>
-<!-- YOUTUBE:END -->
-</tbody>
-  </table>
+    <tr>
+      <td><a href="https://github.com/ageb0205/Detecci-nDelitosML#"><b>Machine Learning for crime detection </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ageb0205/Detecci-nDelitosML#"><b>Predicting Logistics Processes with Machine Learning</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/ageb0205/Detecci-nDelitosML#"><b>Dashboard of Netflix with Power BI</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
+    </tr>
 
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/@AGEBTech?sub_confirmation=1)
+  </tbody>
+</table>
+
+
+<p align="left">
+  <a href="https://github.com/ageb0205?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+</p>
+
+
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github Stat.</h2>
