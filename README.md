@@ -138,7 +138,7 @@ My Github
 <tr><td><a href="https://www.youtube.com/watch?dv=WZNG8UomjSI"><img width="140px" src="https://i.ytimg.com/vi/OsRtPw2EUUI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OsRtPw2EUUI">Crime prediction with machine learning</a><br/>2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?vd=BVX7kZ4GM-g"><img width="140px" src="https://i.ytimg.com/vi/kmUkuyfYzTg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BVdX7kZ4GM-g">Mobile Business App (Android + Firestore + n8n)</a><br/>2025</td></tr>
+<td><a href="https://studio.youtube.com/video/kmUkuyfYzTg/edit">Mobile Business App (Android + Firestore + n8n)</a><br/>2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watdch?v=gU7b5Vgnalw"><img width="140px" src="https://i.ytimg.com/vi/gU7b5Vgnalw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gdU7b5Vgnalw">How to Create Custom Snippets for Any Language in VS Code</a><br/>2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?dv=5ecM9n7A_pY"><img width="140px" src="https://i.ytimg.com/vi/5ecM9n7A_pY/mqdefault.jpg"></a></td>
