@@ -41,8 +41,8 @@ My Github
 <td><a href="https://www.youtube.com/watch?v=kmUkuyfYzTg">Mobile Business App (Android + Firestore + n8n)</a><br/>2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=PR-2UvaOTQ4"><img width="140px" src="https://i.ytimg.com/vi/PR-2UvaOTQ4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PR-2UvaOTQ4">⚠️ Watch out! This is how they can use your camera with just a link </a><br/>2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?dv=5ecM9n7A_pY"><img width="140px" src="https://i.ytimg.com/vi/5ecM9n7A_pY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5ecdM9n7A_pY">How to Type HTML and CSS Faster with Emmet</a><br/>Nov 10, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?dv=5ecM9n7A_pY"><img width="140px" src="https://i.ytimg.com/vi/5OoZIIkQDEQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5OoZIIkQDEQ">Business Administration Website with Spring Boot and React</a><br/>2025</td></tr>
 <!-- YOUTUBE:END -->
 </tbody>
   </table>
